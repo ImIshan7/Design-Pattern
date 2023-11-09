@@ -1,4 +1,4 @@
-package lk.ijse.design_pattern.Creational.Factory;
+package lk.ijse.design_pattern.Creational.Factory_Design;
 
 public class Circule implements Shape {
 

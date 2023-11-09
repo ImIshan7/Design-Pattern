@@ -1,4 +1,4 @@
-package lk.ijse.design_pattern.Structural.FacadeDesign;
+package lk.ijse.design_pattern.Structural.Facade_Design;
 
 public class Rectangle implements Shape {
     @Override

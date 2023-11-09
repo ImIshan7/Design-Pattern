@@ -1,4 +1,4 @@
-package lk.ijse.design_pattern.Creational.Singleton;
+package lk.ijse.design_pattern.Creational.Singleton_Design;
 
 public class SingletonObject {
     private static SingletonObject instance = new SingletonObject();

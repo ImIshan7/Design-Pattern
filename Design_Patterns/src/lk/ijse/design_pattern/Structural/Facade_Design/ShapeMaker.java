@@ -1,6 +1,4 @@
-package lk.ijse.design_pattern.Structural.FacadeDesign;
-
-import javafx.scene.shape.Circle;
+package lk.ijse.design_pattern.Structural.Facade_Design;
 
 public class ShapeMaker {
     private Shape square;
