@@ -1,4 +1,6 @@
 package lk.ijse.design_pattern.Creational.Factory;
 
-public class Factory {
+public interface Shape {
+
+    void draw();
 }
